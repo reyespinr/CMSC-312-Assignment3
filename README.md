@@ -1,4 +1,4 @@
-# CMSC-312 Assignment 2
+# CMSC-312 Assignment 3
 
 This repository contains a collection of programs that demonstrate different inter-process communication (IPC) methods and multi-threading in C++, focusing on shared memory, semaphores, and process-thread synchronization.
 
